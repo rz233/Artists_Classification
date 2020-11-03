@@ -11,7 +11,7 @@ It is the essential words list of 176 function words
 ### `util.py` 
 Contains functions of tokenization and evaluations
 
-### `song_classification.py` 
+### `artists_classification.py` 
 Include vecorization and model function and it also call functions from util.py
 
-Usage: `python song_classification.py --function_words_path ewl_function_words.txt --path songdata.csv`
+Usage: `python artists_classification.py --function_words_path ewl_function_words.txt --path songdata.csv`
